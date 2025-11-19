@@ -97,7 +97,6 @@ United International University • 2015–2020 • CGPA: 3.07/4.00
 **Higher Secondary Certificate**  
 Dhaka College • 2012–2014 • GPA: 5.00/5.00  
 → Member @ Dhaka College Science Club (2013 - 2014)
-
 <br>
 
 <br>
@@ -105,7 +104,6 @@ Dhaka College • 2012–2014 • GPA: 5.00/5.00
 **Secondary School Certificate**  
 Government Laboratory High School • 2002–2012 • GPA: 5.00/5.00  
 → Member @ Red Crescent Society (2008 - 2009)
-
 <br>
 
 ## 📫 Let's Connect
