@@ -104,6 +104,7 @@ Dhaka College • 2012–2014 • GPA: 5.00/5.00
 **Secondary School Certificate**  
 Government Laboratory High School • 2002–2012 • GPA: 5.00/5.00  
 → Member @ Red Crescent Society (2008 - 2009)
+
 <br>
 
 ## 📫 Let's Connect
