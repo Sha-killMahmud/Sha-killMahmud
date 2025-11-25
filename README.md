@@ -41,7 +41,7 @@ Dedicated SQA professional skilled in manual & automation testing, test case des
 </div>
 
 <br>
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,7 +51,7 @@ Dedicated SQA professional skilled in manual & automation testing, test case des
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sha-killMahmud&theme=tokyonight&hide_border=true"/>
 
 </div>
-
+-->
 <br>
 
 ## 🔥 Featured Projects
