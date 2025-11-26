@@ -21,6 +21,7 @@
 Dedicated SQA professional skilled in manual & automation testing, test case design, defect tracking, and ensuring flawless user experiences. Passionate about writing clean automation scripts and catching bugs before they reach users. Currently strengthening Playwright, Selenium & Pytest skills through real projects.
 
 </div>
+<br>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -39,20 +40,26 @@ Dedicated SQA professional skilled in manual & automation testing, test case des
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </div>
-
 <br>
-<!--
-## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Overview
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sha-killMahmud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sha-killMahmud&layout=compact&langs_count=8&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sha-killMahmud&theme=tokyonight&hide_border=true"/>
-
-</div>
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Sha-killMahmud?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/Sha-killMahmud?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/github/commit-activity/y/Sha-killMahmud/Sha-killMahmud?style=for-the-badge&label=Yearly%20Commits"/>
+  <img src="https://img.shields.io/github/last-commit/Sha-killMahmud/Sha-killMahmud?style=for-the-badge&label=Last%20Commit"/>
+  <img src="https://img.shields.io/github/languages/top/Sha-killMahmud/Sha-killMahmud?style=for-the-badge&label=Top%20Language"/>
+  <img src="https://img.shields.io/github/issues/Sha-killMahmud/Sha-killMahmud?style=for-the-badge&label=Open%20Issues"/>
+</p>
 <br>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
 
 ## 🔥 Featured Projects
 
